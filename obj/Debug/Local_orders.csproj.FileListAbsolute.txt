@@ -1,0 +1,13 @@
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\bin\Debug\Local_orders.exe.config
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\bin\Debug\Local_orders.exe
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\bin\Debug\Local_orders.pdb
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.csproj.SuggestedBindingRedirects.cache
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.Properties.Resources.resources
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.csproj.GenerateResource.cache
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.csproj.CoreCompileInputs.cache
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.exe
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.pdb
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.DBOrders.resources
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.HomeForm.resources
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.csproj.AssemblyReference.cache
+C:\Users\przem\Desktop\Projekty\Task&DB\Local_orders\obj\Debug\Local_orders.CustomerForm.resources
